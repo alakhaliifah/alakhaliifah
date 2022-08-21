@@ -22,8 +22,8 @@ As a software developer, I like to create things that make a difference.
 - 👨‍🔬 I’m currently working on converting a system of more than 500 legacy ASP websites to ASP.NET/ReactJS/NextJS
 <!-- - 👨‍🔧 I’m currently learning Docker and Kubernetes on [PluralSight](https://www.pluralsight.com/) -->
 - 👨‍💻 I am currently employed as a Software Engineer at [Magical Digits](https://www.github.com/MagicalDigits)
+- 👨‍🎓 I am starting this Fall Master of Science(MS) in Software Engineering(SE) from [Mohammad Ali jinnah University](https://jinnah.edu/)
 - 👨‍🎓 I have done Bachelor of Science(BS) in Software Engineering(SE) from [Mohammad Ali jinnah University](https://jinnah.edu/)
-- 👨‍🎓 I am starting this fall Master of Science(MS) in Software Engineering(SE) from [Mohammad Ali jinnah University](https://jinnah.edu/)
 
 </br>
 
