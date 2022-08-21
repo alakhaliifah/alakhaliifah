@@ -32,7 +32,7 @@ As a software developer, I like to create things that make a difference.
 - [JUMBOS Conversion](https://www.rightaboutnow.com) (Under active development)
 - [Task Timer](http://tasktimer.abdirahmankhalif.me/)
 
-🚀 **My Practices**
+🧠 **My Practices**
 - [Facebook clone](https://github.com/alakhaliifah/facebook-clone)
 - [WhatsApp clone](https://github.com/alakhaliifah/whatsapp-clone)
 
