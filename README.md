@@ -52,7 +52,8 @@ As a software developer, I like to create things that make a difference.
   <img src="https://img.shields.io/badge/Node.JS-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.JS-404D59?style=for-the-badge&logo=express&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/selenium-green?style=for-the-badge&logo=selenium&logoColor=black" />
-  <!-- <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-F7DF1E?style=for-the-badge&logo=mysql&logoColor=black" />
 </p>
 
 <p> 
