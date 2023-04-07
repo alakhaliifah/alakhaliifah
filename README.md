@@ -29,8 +29,8 @@ As a software developer, I like to create things that make a difference.
 
 🚀 **My Creations and Works**
 
-- [JUMBOS Conversion](https://101escapes.com) (Under active development)
-- [Opticofy](https://opticofy.com)
+- [JUMBOS Conversion](https://101escapes.com) (Under active development. It contains 500+ websites under one codebase)
+- [Opticofy](https://opticofy.com) (Maintenance and adding new features and functionalities)
 - [Task Timer](http://tasktimer.abdirahmankhalif.me/)
 
 🧠 **My Practices**
@@ -49,6 +49,7 @@ As a software developer, I like to create things that make a difference.
 <p>
   <img src="https://img.shields.io/badge/React.JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.JS-grey?style=for-the-badge&logo=next.js&logoColor=black" />
+  <img src="https://img.shields.io/badge/svelte-grey?style=for-the-badge&logo=svelte" />
   <img src="https://img.shields.io/badge/Node.JS-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.JS-404D59?style=for-the-badge&logo=express&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/selenium-green?style=for-the-badge&logo=selenium&logoColor=black" />
@@ -61,13 +62,13 @@ As a software developer, I like to create things that make a difference.
  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
- <!-- <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> -->
+ <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
  <img src="https://img.shields.io/badge/Firebase-grey?style=for-the-badge&logo=firebase" />
  <img src="https://img.shields.io/badge/Vercel-20232A?style=for-the-badge&logo=vercel&logoColor=white" />
  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
- <!-- <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> -->
+ <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
 <!--
