@@ -19,7 +19,7 @@ As a software developer, I like to create things that make a difference.
   
 </br>
 
-- 👨‍🔬 I’m currently working on converting a system of more than 500 legacy ASP websites to ASP.NET/ReactJS/NextJS
+- 👨‍🔬 I’m currently working on developing an inventory part for optical website (Opticofy) using NodeJS/ExpressJS/MongoDB/EJS
 <!-- - 👨‍🔧 I’m currently learning Docker and Kubernetes on [PluralSight](https://www.pluralsight.com/) -->
 - 👨‍💻 I am currently employed as a Software Engineer at [Magical Digits](https://www.github.com/MagicalDigits)
 - 👨‍🎓 I am doing Master of Science (MS) in Software Engineering (SE) from [Mohammad Ali jinnah University](https://jinnah.edu/)
@@ -29,13 +29,14 @@ As a software developer, I like to create things that make a difference.
 
 🚀 **My Creations and Works**
 
-- [JUMBOS Conversion](https://101escapes.com) (It contains 500+ websites under one codebase)
-- [Opticofy](https://opticofy.com) (Maintenance and adding new features and functionalities)
-- [Task Timer](http://tasktimer.abdirahmankhalif.me/)
+- [Opticofy Inventory](https://opticofyinventory.herokuapp.com) (Under active development)
+- [JUMBOS Conversion](https://101escapes.com) (It contains 500+ websites under one codebase, built on ASP.NET/ReactJS/NextJS)
+- [Opticofy](https://opticofy.com) (Maintenance and adding new features and functionalities, built on NodeJS/ExpressJS/MongoDB/EJS)
+- [Task Timer](http://tasktimer.abdirahmankhalif.me/) (Built using NextJS)
 
 🧠 **My Practices**
-- [Facebook clone](https://github.com/alakhaliifah/facebook-clone)
-- [WhatsApp clone](https://github.com/alakhaliifah/whatsapp-clone)
+- [Facebook clone](https://github.com/alakhaliifah/facebook-clone) (built using ReactJS)
+- [WhatsApp clone](https://github.com/alakhaliifah/whatsapp-clone) (Built using NextJS)
 
 📈 **My GitHub Stats**
 
