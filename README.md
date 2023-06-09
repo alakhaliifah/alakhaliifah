@@ -29,7 +29,7 @@ As a software developer, I like to create things that make a difference.
 
 🚀 **My Creations and Works**
 
-- [JUMBOS Conversion](https://101escapes.com) (Under active development. It contains 500+ websites under one codebase)
+- [JUMBOS Conversion](https://101escapes.com) (It contains 500+ websites under one codebase)
 - [Opticofy](https://opticofy.com) (Maintenance and adding new features and functionalities)
 - [Task Timer](http://tasktimer.abdirahmankhalif.me/)
 
