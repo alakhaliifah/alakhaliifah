@@ -13,28 +13,31 @@
 
 ### Welcome to my Github profile! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=alakhaliifah.alakhaliifah)
 
-I am a front-end software developer. I love programming, writing, watching movies, working out and traveling.
+I am a full stack software engineer. I love programming, writing, watching movies, working out and traveling.
 
-As a software developer, I like to create things that make a difference.
+As a software engineer, I like to create things that make a difference.
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/AbdullahAnsarii/AbdullahAnsarii/main/giphy.gif" width="408" height="300" />
   
 </br>
 
-- 👨‍🔬 I’m currently working on developing an inventory part for optical website (Opticofy) using NodeJS/ExpressJS/MongoDB/EJS
+- 👨‍🔬 I’m currently working on developing an inventory with accounting system using Core PHP/HTML/CSS/JS/MYSQL
 <!-- - 👨‍🔧 I’m currently learning Docker and Kubernetes on [PluralSight](https://www.pluralsight.com/) -->
 - 👨‍💻 I am currently employed as a Software Engineer at [Magical Digits](https://www.github.com/MagicalDigits)
-- 👨‍🎓 I am doing Master of Science (MS) in Software Engineering (SE) from [Mohammad Ali jinnah University](https://jinnah.edu/)
+- 👨‍🎓 I have done Master of Science (MS) in Software Engineering (SE) from [Mohammad Ali jinnah University](https://jinnah.edu/)
 - 👨‍🎓 I have done Bachelor of Science (BS) in Software Engineering (SE) from [Mohammad Ali jinnah University](https://jinnah.edu/)
 
 </br>
 
 🚀 **My Creations and Works**
 
-- [Opticofy Inventory](https://opticofyinventory.herokuapp.com) (Under active development)
+- [Sales and Inventory ERP System] (Under active constaction and building with Core PHP/HTML/CSS/Bootstrap/JS/MYSQL)
+- [Account Software] (Build with Core PHP/HTML/CSS/Bootstrap/JS/MYSQL)
+- [Opticofy](https://opticofy.com) (Rebuild with Core PHP/HTML/CSS/Bootstrap/JS/MYSQL)
+- [Opticofy Inventory](https://optikofy.com) (Built with NextJS/MongoDB)
 - [JUMBOS Conversion](https://101escapes.com) (It contains 500+ websites under one codebase, built on ASP.NET/ReactJS/NextJS)
 - [Opticofy](https://opticofy.com) (Maintenance and adding new features and functionalities, built on NodeJS/ExpressJS/MongoDB/EJS)
-- [Task Timer](http://tasktimer.abdirahmankhalif.me/) (Built using NextJS)
+- [Task Timer](http://tasktimer.khalif.dev) (Built using NextJS)
 
 🧠 **My Practices**
 - [Facebook clone](https://github.com/alakhaliifah/facebook-clone) (built using ReactJS)
@@ -50,6 +53,7 @@ As a software developer, I like to create things that make a difference.
 🤺 **My Skills**
 
 <p>
+  <img src="https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php&logoColor=RRGGBB" />
   <img src="https://img.shields.io/badge/React.JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.JS-grey?style=for-the-badge&logo=next.js&logoColor=black" />
   <img src="https://img.shields.io/badge/svelte-grey?style=for-the-badge&logo=svelte" />
